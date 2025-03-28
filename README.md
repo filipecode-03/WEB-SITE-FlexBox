@@ -2,6 +2,10 @@
 
 Bem-vindo ao repositório **WEB-SITE-FlexBox**! Este projeto foi desenvolvido durante o **Módulo 5 do curso de HTML5 e CSS3 do Curso em Vídeo**, com o objetivo de aplicar os conceitos do modelo **Flexbox** no CSS para criar layouts responsivos e eficientes.  
 
+## Layout do Site 
+
+<img src="images/Captura de tela 2025-03-28 083627.png">
+
 ## 📂 Estrutura do Projeto  
 
 A estrutura de diretórios e arquivos do projeto é a seguinte:  
